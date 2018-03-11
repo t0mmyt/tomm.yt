@@ -1,6 +1,6 @@
 ---
 title: "Minimal logging configuration with Java, SLF4J & Gradle"
-date: 2018-03-10T13:46:15+01:00
+date: 2018-03-09T13:46:15+01:00
 draft: false
 tags: [ "java" ]
 ---

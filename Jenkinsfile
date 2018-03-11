@@ -17,4 +17,10 @@ pipeline {
       }
     }
   }
+
+  post {
+    success {
+      cleanWs()
+    }
+  }
 }
