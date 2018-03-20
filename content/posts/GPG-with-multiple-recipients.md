@@ -1,14 +1,10 @@
 ---
 title: "GPG With Multiple Recipients"
 date: 2015-03-22T15:20:49+01:00
-tags: [ "gpg" ]
+tags: [ "gpg", "encryption" ]
 ---
-# Abstract
-
-This is how to store sensitive information (e.g. SSL key passphrases) in a GPG encrypted file with multiple recipients.
-
-**If you're using git to store the file (which you should be), always do a git pull before doing any changes. These files are binary and therefore merges are very difficult otherwise.**
-
+This is how to store sensitive information (e.g. SSL key passphrases) in a GPG encrypted file with multiple recipients.  If you're using git to store the file (which you probably should be), always do a git pull before doing any changes. These files are binary and therefore merges are very difficult otherwise.
+<!--more-->
 # Setting up your GPG key
 
 Almost every server and desktop distro already has GPG installed. If you want to do this on Windows then Google is your friend.
