@@ -2,7 +2,7 @@ baseURL = "https://tomm.yt/"
 languageCode = "en-gb"
 title = "Tom Taylor's blog"
 theme = "hugo-dusk"
-paginate = 3
+paginate = 10
 
 [author]
   name = "Tom Taylor"
